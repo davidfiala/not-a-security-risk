@@ -1,3 +1,1 @@
-all:
-	echo 'surprise!'
-
+Real contents
